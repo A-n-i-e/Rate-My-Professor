@@ -1,0 +1,154 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Johnson's lectures are incredibly engaging and she explains complex concepts with great clarity. Her passion for physics is contagious!"
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Prof. Chen is knowledgeable and provides practical coding examples. Sometimes his pace is a bit fast, but overall a great instructor."
+      },
+      {
+        "professor": "Dr. Sarah Williams",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Williams covers the material well, but her assignments can be vague. Office hours are helpful for clarification."
+      },
+      {
+        "professor": "Prof. David Martinez",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Prof. Martinez brings literature to life! His enthusiasm and deep understanding of the texts make every class a joy to attend."
+      },
+      {
+        "professor": "Dr. Lisa Thompson",
+        "subject": "Biology",
+        "stars": 2,
+        "review": "Dr. Thompson seems disorganized and often goes off-topic. The lab sessions are informative, but lectures need improvement."
+      },
+      {
+        "professor": "Prof. Robert Anderson",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Anderson has a wealth of knowledge and tells great historical anecdotes. His exams are challenging but fair."
+      },
+      {
+        "professor": "Dr. Olivia Lee",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Lee is an exceptional educator. Her clear explanations and interactive demonstrations make complex chemical concepts easy to grasp."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Mathematics",
+        "stars": 3,
+        "review": "Prof. Wilson knows his subject well, but can be impatient with students who struggle. His problem sets are very challenging."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Garcia facilitates great class discussions and relates course material to current events. Some readings are quite dense."
+      },
+      {
+        "professor": "Prof. Thomas Brown",
+        "subject": "Economics",
+        "stars": 1,
+        "review": "Prof. Brown's lectures are dry and hard to follow. The textbook is more helpful than the actual classes."
+      },
+      {
+        "professor": "Dr. Rachel Kim",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Kim's passion for art is infectious. Her virtual museum tours and in-depth analyses of artworks are eye-opening experiences."
+      },
+      {
+        "professor": "Prof. Alexander Novak",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Prof. Novak presents balanced viewpoints on complex political issues. His debate sessions are particularly enlightening."
+      },
+      {
+        "professor": "Dr. Samantha Patel",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Patel combines theoretical knowledge with practical fieldwork brilliantly. Her course has completely changed my perspective on environmental issues."
+      },
+      {
+        "professor": "Prof. William Taylor",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Prof. Taylor's lectures are thought-provoking, but sometimes too abstract. More concrete examples would help in understanding the concepts better."
+      },
+      {
+        "professor": "Dr. Jennifer Lopez",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Dr. Lopez explains complex neurological concepts in an understandable way. Her lab demonstrations are particularly helpful."
+      },
+      {
+        "professor": "Prof. Daniel Wright",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "Prof. Wright seems knowledgeable but struggles to explain concepts clearly. The course relies heavily on the textbook and online resources."
+      },
+      {
+        "professor": "Dr. Elizabeth Chen",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Dr. Chen's enthusiasm for languages is contagious. Her interactive teaching methods make learning about linguistic structures fun and engaging."
+      },
+      {
+        "professor": "Prof. Christopher Lee",
+        "subject": "Marketing",
+        "stars": 4,
+        "review": "Prof. Lee brings real-world experience to the classroom. His case studies and group projects provide valuable insights into modern marketing strategies."
+      },
+      {
+        "professor": "Dr. Alicia Ramirez",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Dr. Ramirez's firsthand experiences from her fieldwork make her lectures captivating. She encourages critical thinking about cultural practices."
+      },
+      {
+        "professor": "Prof. Jonathan Green",
+        "subject": "Music Theory",
+        "stars": 3,
+        "review": "Prof. Green is clearly passionate about music, but his teaching style can be a bit dry. The practical exercises are more helpful than the lectures."
+      },
+      {
+        "professor": "Dr. Michelle Carter",
+        "subject": "Genetics",
+        "stars": 4,
+        "review": "Dr. Carter simplifies complex genetic concepts effectively. Her office hours are particularly helpful for clarifying doubts."
+      },
+      {
+        "professor": "Prof. Richard Brown",
+        "subject": "Mechanical Engineering",
+        "stars": 2,
+        "review": "Prof. Brown's assignments are overly difficult and often unrelated to exam material. Lectures could use more practical examples."
+      },
+      {
+        "professor": "Dr. Laura Martinez",
+        "subject": "Public Health",
+        "stars": 5,
+        "review": "Dr. Martinez's course is eye-opening. She effectively relates public health issues to current events and encourages community involvement."
+      },
+      {
+        "professor": "Prof. Kevin O'Brien",
+        "subject": "Film Studies",
+        "stars": 4,
+        "review": "Prof. O'Brien's analysis of films is insightful. The course offers a good balance of film theory and practical criticism."
+      },
+      {
+        "professor": "Dr. Sophia Lee",
+        "subject": "Organic Chemistry",
+        "stars": 3,
+        "review": "Dr. Lee is knowledgeable but her pacing can be too fast. The lab sessions are well-organized and helpful in understanding reactions."
+      }
+    ]
+  }
